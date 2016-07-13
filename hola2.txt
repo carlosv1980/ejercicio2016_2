@@ -2,3 +2,13 @@ hola mundo
 
 <------------------->
 Esta parte la estamos haciendo desde el pc para probar un commit desde github
+
+
+
+<__________________________>
+
+hemos hecho un git fetch origin para bajar los cambios que hicimos desde github en el último commit
+
+despues hemos hecho una fusion con git merge origin/master y que se guarden los cambios en nuestro pc
+
+ahora estamos escribiendo desde nuestro pc y vamos a hacer un git push origin master, para subir a github este último cambio
